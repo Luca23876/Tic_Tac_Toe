@@ -1,0 +1,26 @@
+.mainbox {
+	background-color: grey;
+	width: 350px;
+	height: 350px;
+}
+.box {
+	background-color: white;
+	width: 100px;
+	height: 100px;
+}
+.box:hover {
+	width: 100px;
+	height: 100px;
+	background-color:black;
+	border:1px solid yellow
+}
+.red {
+	background-color: red;
+	width: 100px;
+	height: 100px;
+}
+.black {
+	background-color: black;
+	width: 100px;
+	height: 100px;
+}
