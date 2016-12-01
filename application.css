@@ -11,7 +11,7 @@
 .box:hover {
 	width: 100px;
 	height: 100px;
-	background-color:black;
+	background-color:grey;
 	border:1px solid yellow
 }
 .red {
